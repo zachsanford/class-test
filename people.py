@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Author: Zachary Sanford (@zachsanford)
+# Published: September 18th, 2018
+
 import os
 
 os.system("clear")
