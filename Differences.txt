@@ -1,0 +1,150 @@
+5100
+----
+Pg 5 (Top-Right) Missing "5111 Threads not shown" in book
+Pg 7 (Left Image) Not sure if it is supposed to be 52000
+     or 5200? Page is the same as the book.
+
+5150
+----
+
+5200
+----
+Pg 10 (Top-Right) Missing "5207, fits here, see fig. 11"
+      in book.
+Pg 11 (Top-Right) Missing "5207 1/4-20 x 1 3/4"...", as
+      well as the image with it, in book.
+Pg 12 (Bottom-Center) 5208 missing "1/8 diam rivet, head"
+
+5300
+----
+Pg 23 (Center-Right) 5208 missing "1/8 diam rivet, head
+      not shown" in book.
+**Handwriting on Pgs 13, 14, and 16.
+
+5400
+----
+**Two 5400 Figure 3 (Pg 29, 29). Need to ID the current
+  one.
+
+5500
+----
+Pg 31 (Center) 5406 missing "dwg. shows set screw" in 
+      book.
+Pg 32 (Center-Left) 5406 missing "dwg. shows set screw"
+      in book.
+Pg 33 (Center-Right) 5406 missing "dwg. shows set
+      screw" in book.
+**Book is missing Pg 34, is there a reason?
+
+5650
+----
+Pg 35 (Center) 5655 in book, 1752 radel on digital
+      file.
+**Pg 36 is missing from book, it seems like most info
+  is "discontinued" on that page...
+**Handwriting on Pg 35
+
+5900
+----
+
+5920-2
+------
+**Handwriting on Pg 40
+**Pg 41 is different from the digital file.
+  Book, 5920-2 Fig 2. Digital File, 5950
+
+5950
+----
+Book is missing this section, so it is missing Pg 41?,
+   42, 43, 44.
+Digital File Pg 43 missing the page number at the 
+   bottom.
+
+5675
+----
+Book is missing this section, so it is missing Pg 45,
+   46?
+**Info on Pg 46 has two different numbers.
+
+5930
+----
+Pg 47 (Top-Left) Item number is 5930 in the book
+      5935 in the digital file.
+Pg 47 (Center-Bottom) Item number is 5932 in the book
+      1752 in the book. (Should it be 1752-2 because 
+      it's SS?)
+Pg 48 (Top-Left) "5930 VCM/VCARE connector, Fig.2" 
+      in the book. "5675 Universal Adapter, Fig.4"
+      in the digital file.
+Pg 48 (Center) Item number is 5930 in the book
+      5675 in the digital file.
+Pg 48 (Center-Left) "for VCM" in the book. "UNIVERSAL"
+      in the digital file.
+Pg 48 (Center-Right) "for VCARE ADAPTER" in the book.
+      There is nothing there in the digital file.
+Pg 48 (Bottom) Blank in the book. "This drawing isn't
+      right. This should be showing either the cup
+      for the Universal adapter or the whole adapter"
+      in the digital file.
+
+VCR
+---
+Pg 49 is missing from the book.
+
+VCM
+---
+Pg 50 may be in the book.  There are a lot of images
+      in the VCM section that I don't know where the
+      digital files are.
+
+5700-5800
+---------
+Pg 51 (Bottom-Center) Page number in the book says 41
+Pg 52 (Bottom-Center) Page number in the book says 42
+Pg 53 (Bottom-Center) Page number in the book says 43
+Pg 54 (Bottom-Center) Page number in the book says 44
+Pg 55 (Bottom-Center) Page number in the book says 45
+Pg 56 (Bottom-Center) Page number in the book says 46
+Pg 57 (Bottom-Center) Page number in the book says 47
+Pg 58 (Bottom-Center) Page number in the book says 48
+Pg 59 (Bottom-Center) Page number in the book says 49
+Pg 60 (Bottom-Center) Page number in the book says 50
+Pg 60 In the book item numbers 5710, 5727, 5726, 5715
+      have an asterisk (*), yet the threads are shown
+      on the image.
+Pg 61 (Bottom-Center) Page number in the book says 51
+Pg 62 (Bottom-Center) Page number in the book says 52
+Pg 63 (Bottom-Center) Page number in the book says 53
+Pg 64 (Bottom-Center) Page number in the book says 54
+Pg 65 (Bottom-Center) Page number in the book says 55
+
+K-1120
+------
+Pg 66 (Bottom-Center) Page number in the book says 56
+Pg 67 (Center) Missing two "vent"'s at the bottom of
+      the main housing in the book.
+Pg 67 (Top-Center) Missing a "vent" on the foot pedal
+Pg 67 (Bottom-Center) "5701,5702 gas supply module"
+      is outside of the housing in the book.
+Pg 67 (Center-Right) "wall or tank source" missing 
+      from the book.
+Pg 67 (Top-Left) "700-5800" in the book, "5700-5800" 
+      in the digital file.
+Pg 67 (Bottom-Center) Page number in the book says 57
+
+Misc.
+-----
+
+Pg 70 Not in the book.  Does it need to be since it 
+      is labeled "replace by fig.1" (Pg 51)?
+Pg 71 Couldn't find in the book. Does it need to be 
+      since it is "obsolete"?
+Pg 72 Not in the book.
+Pg 73 Not in the book.
+Pg 74 Couldn't find in the book. Does it need to be 
+      since it is "obsolete"?
+Pg 75 Not in the book.
+Pg 76 Not in the book.
+Pg 77 Not in the book.
+Pg 78 Not in the book.
+
