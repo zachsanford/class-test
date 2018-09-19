@@ -6,3 +6,6 @@ This is a Python program that takes a person's attributes and creates a class wh
 
 ### cheer.py
 This is a Python program that tests a For Loop.
+
+### netping.sh
+This is a BASH Script for pinging every 192.168.1.0/24 address on your private network.
