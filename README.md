@@ -18,3 +18,6 @@ This is a Python program that allows a user to enter as many numbers as they wan
 
 ### read.py
 This is a Python program that tests opening and reading a file.
+
+### readtest.py
+This is a Python program that opens a file and sees if the user knows the password.
