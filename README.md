@@ -21,3 +21,6 @@ This is a Python program that tests opening and reading a file.
 
 ### readtest.py
 This is a Python program that opens a file and sees if the user knows the password.
+
+### squares.py
+This is a Python program that is an example of how to use For Loops as well as formatting strings.
