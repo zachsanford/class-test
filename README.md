@@ -24,3 +24,6 @@ This is a Python program that opens a file and sees if the user knows the passwo
 
 ### squares.py
 This is a Python program that is an example of how to use For Loops as well as formatting strings.
+
+### dollar.py
+This is a Python program that is an example of how to use Lists in Python.
