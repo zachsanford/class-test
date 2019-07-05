@@ -36,3 +36,6 @@ This is a Python program that tests out for loop structures.
 
 ### ip-to-binary.py
 This is a Python program that converts a decimal IPv4 address to a binary IPv4 address.
+
+### PySimpleCalc
+This is a Python program that performs simple mathematical calculations on Windows.
